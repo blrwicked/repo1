@@ -3,7 +3,7 @@ adding a new line
 
 More feature coming soon!
 =======
-bug fix done
 
+added a line in local repo
 
 thank you :)
